@@ -18,4 +18,5 @@ This is a simple interactive Streamlit app that helps visualize how linear regre
 ## 📦 Requirements
 
 Install dependencies with:
+
 pip install -r requirements.txt
